@@ -1,0 +1,147 @@
+.i23-Leave-Mgmt{
+    width: 100%;
+    height: 96%;
+}
+.i23-Leave-Header{
+    width: 100%;
+}
+.i23-Leave-Header-Title{
+
+}
+.i23-Leave-Main{
+    height: 100%;
+    width: 100%;
+}
+.i23-Leave-Sidebar{
+    width: 25%;
+    height: 100%;
+}
+.i23-Leave-Userbadge{
+
+}
+.i23-Leave-Grp{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.i23-Leave-Grp-Header{
+    width: 100%;
+    height: 4.5rem;
+}
+.i23-Leave-Grp-Header-Title{
+    display: flex;
+    flex-direction: column;
+}
+.i23-Leave-Grp-Header-Button{
+    width: 100%;
+}
+.i23-Leave-Grp-Sec{
+
+}
+.i23-Leave-Sec-Levels{
+    width: 100%;
+}
+.i23-Leave-Sec-Level-One{
+    width: 100;
+}
+.i23-Leave-Sec-Level-One-Icon{
+
+}
+.i23-Leave-Sec-Level-One-Title{
+    width: 100%;
+}
+.i23-Leave-Sec-Level-One-Desc{
+
+}
+.i23-Leave-Sec-Level-Two{
+    width: 100%;
+}
+.i23-Leave-Sec-Level-Two-Icon{
+
+}
+.i23-Leave-Sec-Level-Two-Title{
+
+}
+.i23-Leave-Sec-Level-Two-Desc{
+
+}
+.i23-Leave-Sec-Level-Three{
+    width: 100%;
+}
+.i23-Leave-Sec-Level-Three-Icon{
+
+}
+.i23-Leave-Sec-Level-Three-Title{
+
+}
+.i23-Leave-Sec-Level-Three-Desc{
+
+}
+.i23-Leave-Level{
+    width: 100%;
+}
+.i23-Leave-Sec-Timestamp{
+    width: 100%;
+}
+.i23-Leave-Sec-Cal{
+
+}
+.i23-Leave-Sec-Cal-Icon{
+
+}
+.i23-Leave-Sec-Cal-Date{
+
+}
+.i23-Leave-Sec-TimeDetails{
+    
+}
+.i23-Leave-Sec-TimeDet-Icon{
+
+}
+.i23-Leave-Sec-TimeDet-Time{
+
+}
+.i23-Leave-Time{
+    
+}
+.i23-Leave-Sec-Fields{
+    width: 100%;
+    height: 100%;
+}
+.i23-Leave-Sec-Fields-Header{
+    width: 100%;
+}
+.i23-Leave-Sec-Fields-Header-Title{
+
+}
+.i23-Leave-Sec-Fields{
+
+}
+.i23-Leave-Sec-Field{
+    
+}
+.i23-Leave-Sec-Field-Title{
+    width: 50%;
+}
+.i23-Leave-Sec-Field-Control{
+    width: 50%;
+}
+.i23-Leave-Sec-Area-Field-Control{
+    width: 100%;
+}
+.i23-Leave-Sec-Footer{
+    width: 100%;
+}
+.i23-Leave-Sec-Area-Field-Title{
+    width: 100%;
+}
+.i23-Leave-Area-Field-Control{
+    width: 90%;
+    height: 4rem;
+}
+.i23-Leave-Sec-Footer-Title{
+    width: 100%;
+}
+.i23-Leave-Sec-Footer-Control{
+    
+}
